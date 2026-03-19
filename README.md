@@ -1,6 +1,6 @@
 # Hi, I'm David
 
-**Philadelphia** | **Founder, [Orchid Studio](https://orchidstudio.ai)** | **Agentic engineer** | **[Photographer](https://davidsadofsky.com)** | **[TV](https://www.linkedin.com/in/davidsadofsky/)**
+**Philadelphia** | **Founder, [Orchid Studio](https://orchidstudio.ai)** | **Agentic engineer** | **[Photographer](https://davidsadofsky.com)** | **[TV](https://glassentertainmentgroup.com)**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
