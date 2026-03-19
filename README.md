@@ -1,6 +1,6 @@
 # Hi, I'm David
 
-📍 **Philadelphia** | 🎙️ **Founder, [Orchid Studio](https://orchidstudio.ai)** | 🛠️ **Vibe coder**
+📍 **Philadelphia** | 🎙️ **Founder, [Orchid Studio](https://orchidstudio.ai)** | 🛠️ **Agentic engineer**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -9,7 +9,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> Building [Orchid Studio](https://orchidstudio.ai) — an AI-powered producer for podcasters and broadcasters. Backed by Glass Entertainment Group. When I'm not doing that, I'm vibe coding developer tools.
+> Building [Orchid Studio](https://orchidstudio.ai) — an AI-powered producer for podcasters and broadcasters. Backed by Glass Entertainment Group. When I'm not doing that, I'm building developer tools with AI agents.
 
 ## Projects
 
