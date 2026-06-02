@@ -14,6 +14,7 @@
 ## Projects
 
 - **[Liview](https://github.com/DSado88/liview)** — Toddler-proof video viewer for iOS
+- **[MarkUp](https://github.com/DSado88/MarkUp)** — Native macOS Markdown editor with view, rich (Tiptap), and source modes
 - **[Pylon](https://github.com/DSado88/pylon)** — Metal-accelerated terminal emulator for Claude Code with session tracking and usage monitoring
 - **[Video Feeder](https://github.com/DSado88/video-feeder)** — MCP server that records bugs via OBS and analyzes them with Gemini
 - **[Gloss](https://github.com/DSado88/gloss)** — Convert Claude Code JSONL conversation logs to annotated, readable HTML
