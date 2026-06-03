@@ -11,12 +11,6 @@
 
 > Building [Orchid Studio](https://orchidstudio.ai) — an AI-powered producer for podcasters and broadcasters. Backed by Glass Entertainment Group. When I'm not doing that, I'm building developer tools with AI agents.
 
-## ✦ Featured — [Ledger](https://github.com/DSado88/ledger)
-
-A **Claude-native personal finance dashboard**. The web app is the source of truth (Bun + SQLite + a small REST API); Claude is the integration layer — it pulls transactions from Plaid, reconciles Amazon/Target charges against real order data, codes everything to a chart of accounts, and writes back through the API. Net worth that drills into per-account balance charts, a cashflow projector, and a spending topsheet that excludes income/transfers deterministically. Localhost-only and red-teamed.
-
-[![Ledger](https://raw.githubusercontent.com/DSado88/ledger/main/docs/screenshots/overview.png)](https://github.com/DSado88/ledger)
-
 ## Projects
 
 - **[Ledger](https://github.com/DSado88/ledger)** — Claude-native personal finance dashboard: Plaid sync, Amazon/Target reconciliation, and chart-of-accounts coding over Bun + SQLite
