@@ -13,6 +13,7 @@
 
 ## Projects
 
+- **[Run of Show](https://github.com/DSado88/run-of-show)** — local-first timeline scheduler: build reusable time-block schedules and assign them onto calendar dates; zero-dependency HTML app + tiny Node server
 - **[Ledger](https://github.com/DSado88/ledger)** — Claude-native personal finance dashboard: Plaid sync, Amazon/Target reconciliation, and chart-of-accounts coding over Bun + SQLite
 - **[MarkUp](https://github.com/DSado88/MarkUp)** — Native macOS Markdown editor with view, rich (Tiptap), and source modes
 - **[Liview](https://github.com/DSado88/liview)** — Toddler-proof video viewer for iOS
